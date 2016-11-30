@@ -39,6 +39,7 @@ public class ArrayProject3 {
 		
 		System.out.print("The largest number you entered is " + largestNum);
 		
+		userInput.close();
 	}
 
 }
